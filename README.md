@@ -38,7 +38,6 @@ To enhance the utility and sophistication of the physical activity tracking devi
 This repository provides valuable insights into the potential of fitness data in driving innovation and product development. By leveraging the advanced sensor capabilities of the Colibri IMUs, this study offers a detailed exploration of human kinetics and paves the way for creating user-centric health and fitness solutions.
 
 ## Repository Contents
-- **Data Files:** .dat files containing the raw data collected from the study.
 - **Scripts:** Python scripts for data cleaning, EDA, statistical analysis, and modeling.
 - **Report:** Detailed report documenting the methodology, analysis, and findings.
 
